@@ -17,7 +17,7 @@ class WY_TController extends WY_Controller
      * 
      */
     public function __construct(){
-        
+        parent::__construct();
     }
     
     /**
