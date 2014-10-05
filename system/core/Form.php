@@ -1,10 +1,12 @@
 <?php
 
+namespace wayang;
+
 /**
  * Kelas ini berfungsi memuat form html
  * 
  */
-class WY_Form
+class Form
 {
 	public function open()
     {

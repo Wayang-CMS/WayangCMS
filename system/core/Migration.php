@@ -1,6 +1,12 @@
 <?php
 
-class WY_Migration
+namespace wayang;
+
+/**
+ * Kelas ini berfungsi untuk migrasi database
+ * 
+ */
+class Migration
 {   
     public $columnTypes=array(
 		'pk' => 'int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY',
