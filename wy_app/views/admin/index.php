@@ -220,6 +220,7 @@
     <script src="<?php echo WY_Request::base_url(); ?>/assets/admin/js/plugins/dataTables/jquery.dataTables.js"></script>
     <script src="<?php echo WY_Request::base_url(); ?>/assets/admin/js/plugins/dataTables/dataTables.bootstrap.js"></script>
     
+    <script src="<?php echo WY_Request::base_url(); ?>/assets/admin/js/admin.js"></script>
 
     <script>
         /*
